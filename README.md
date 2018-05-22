@@ -8,7 +8,7 @@ fbLove
 - Uses love.image like a framebuffer
 - It fast.
 - Can change resolution on the fly
-- Provides classical ways to crashing program, like this for example ```lua  buf[0][-1]=0xDEADBEEF ```
+- Provides classical ways to crash your program.  ``` buf[0][-1]=0xDEADBEEF ```
 - Love-11.1.0
 
 How it works
